@@ -1,4 +1,4 @@
-### Hi there 👋
+### HongFu's GitHub stats 👋
 ![HongFu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jian-fu-hung&show_icons=true&hide_title=true&count_private=true)
 
 - Learning Android w/ kotlin...
