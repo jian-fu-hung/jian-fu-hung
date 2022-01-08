@@ -1,5 +1,5 @@
 ### Hi there 👋
-![README Stats](https://github-readme-stats.vercel.app/api?username=jian-fu-hung&show_icons=true&hide_title=true&count_private=true)
+![HongFu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jian-fu-hung&show_icons=true&hide_title=true&count_private=true)
 
 - Learning Android w/ kotlin...
 - Learning connecting to community...
